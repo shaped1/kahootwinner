@@ -10,6 +10,9 @@
   "keywords": [
     "kahoot"
   ],
+  "engines": {
+    "node": "12.6.3"
+  },
   "author": "theusaf",
   "dependencies": {
     "body-parser": "^1.19.0",
