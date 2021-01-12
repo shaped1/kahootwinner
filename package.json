@@ -5,7 +5,7 @@
   "main": "kahoot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron kahoot.js"
+    "start": "node kahoot.js"
   },
   "keywords": [
     "kahoot"
