@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "ip": "^1.1.5",
     "kahoot-search": "^1.0.4",
-    "kahoot.js-updated": "^2.2.5",
+    "kahoot.js-updated": "^3.404.1",
     "request": "^2.88.2",
     "ws": "^7.4.0",
     "yauzl": "^2.10.0"
